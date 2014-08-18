@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/CubicArt/TestIceSoap/app/build/intermediates/pre-dexed/debug/icesoap-1.0.7-jar-with-dependencies-1dd258fc8539b14c939f6d07c8e4b7bdaf3ffadc.jar"
+        jar="/Users/CubicArt/TestIceSoap/app/libs/icesoap-1.0.7-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ef4c4c702be71a5f2345afb42eef5b5432fc7e3b"/>
+
+</pre-dex-items>
